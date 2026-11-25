@@ -4,7 +4,6 @@
 
 - 🚀 요즘 하고 있는 것 ... 해커톤! [티링크 홍보글 메이커](https://github.com/where-is-the-error/tlink-promo-writer) (스마트워크톤) · [청도 해커톤 2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026)
 - 👯 함께한 팀 ... SenTic · MARS · where-is-the-error · WE-AI · LastTimeIWannaGo
-- 🔥 2025년에 만든 것 ... [EXIT CODE : RED](https://github.com/urimll/EXIT-CODE-RED) (학교 건물 VR 화재 대피 시뮬레이션) · [christmas-fortune](https://github.com/urimll/2026-christmas-fortune) (크리스마스 운세 웹)
 - 🌱 공부하고 있는 것 ... React Native(Expo), TypeScript, TanStack Query
 - 📱 관심 있는 것 ... 앱 UI, 인터랙션, XR
 - ⚡ Fun fact ... 불멍 게임도, 화재 대피 시뮬레이션도 만들어 본 불 전문가 🔥🧯
