@@ -37,6 +37,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff)
 
 ### 📊 GitHub Stats
 
@@ -67,6 +68,7 @@
 | 시기 | 프로젝트 | 설명 |
 |---|---|---|
 | 2025.12 | [🔥 EXIT CODE : RED](https://github.com/urimll/EXIT-CODE-RED) | 종합설계 팀 HOT ESC **팀장** · 동양미래대 3호관을 1:1로 모델링한 Meta Quest 3 VR 화재 대피 시뮬레이션 (교육/실전 모드, HP·백드래프트·소화기) |
+| 2025.06 | [🚸 Smart-School-zone](https://github.com/urimll/Smart-School-zone) | IoT소프트웨어개발 기말 · 팀 녕차녕차 · 아두이노로 만든 어린이 보호구역·주차장 도로 모형 (주차 차단기, 잔여 주차면 LCD, 과속 측정, 신호등, 자동 가로등) |
 | 2025 | [christmas-fortune](https://github.com/urimll/2026-christmas-fortune) | 크리스마스 운세 웹페이지 |
 
 ### 📫 Contact
