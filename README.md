@@ -62,7 +62,6 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=urimll&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="urimll's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urimll&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 </p>
 
 ### 👯 Team Projects
