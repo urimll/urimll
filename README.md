@@ -4,7 +4,7 @@
 
 - 🚀 요즘 하고 있는 것 ... 해커톤! [티링크 홍보글 메이커](https://github.com/where-is-the-error/tlink-promo-writer) (스마트워크톤) · [청도 해커톤 2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026)
 - 👯 함께한 팀 ... SenTic · MARS · where-is-the-error · WE-AI · LastTimeIWannaGo
-- 🔥 2025년에 만든 것 ... [Fire3D-Simulation](https://github.com/urimll/Fire3D-Simulation) (학교 건물 화재 대피 시뮬레이션) · [christmas-fortune](https://github.com/urimll/2026-christmas-fortune) (크리스마스 운세 웹)
+- 🔥 2025년에 만든 것 ... [EXIT CODE : RED](https://github.com/urimll/EXIT-CODE-RED) (학교 건물 VR 화재 대피 시뮬레이션) · [christmas-fortune](https://github.com/urimll/2026-christmas-fortune) (크리스마스 운세 웹)
 - 🌱 공부하고 있는 것 ... React Native(Expo), TypeScript, TanStack Query
 - 📱 관심 있는 것 ... 앱 UI, 인터랙션, XR
 - ⚡ Fun fact ... 불멍 게임도, 화재 대피 시뮬레이션도 만들어 본 불 전문가 🔥🧯
@@ -29,8 +29,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 **3D & XR**  
-[![Unity](https://img.shields.io/badge/-Unity-222222?style=for-the-badge&logo=unity&logoColor=ffffff)](https://github.com/urimll/Fire3D-Simulation)
-[![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff)](https://github.com/urimll/Fire3D-Simulation)
+[![Unity](https://img.shields.io/badge/-Unity-222222?style=for-the-badge&logo=unity&logoColor=ffffff)](https://github.com/urimll/EXIT-CODE-RED)
+[![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff)](https://github.com/urimll/EXIT-CODE-RED)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=ffffff)
 
 **Also worked with**  
@@ -59,15 +59,15 @@
 | 2026.01 ~ 03 | [OwnPlot](https://github.com/where-is-the-error/OwnPlot) | where-is-the-error | OwnPlot 웹 서비스 | Next.js · TypeScript |
 | 2025.11 ~ 12 | [MoimiProject](https://github.com/where-is-the-error/MoimiProject) | where-is-the-error | 모이미 안드로이드 앱 | Kotlin |
 | 2025.11 ~ 12 | [edubridge](https://github.com/where-is-the-error/edubridge-frontend) ([backend](https://github.com/where-is-the-error/edubridge-backend)) | where-is-the-error | EduBridge 웹 서비스 | React · Vite · Java |
-| 2025.06 ~ 09 | [Mindspace](https://github.com/DongyangMARS) | MARS | 2025 동양미래 EXPO 출품작 · **Unity 기반 3D 캠프파이어 불멍 게임과 맵 제작 담당** | Unity · C# |
+| 2025.06 ~ 09 | [Mindspace](https://github.com/DongyangMARS) · [🏕 불멍 게임 코드](https://github.com/urimll/Mindspace-Campfire) | MARS | 2025 동양미래 EXPO 출품작 · **Unity 기반 3D 캠프파이어 불멍 게임과 맵 제작 담당** | Unity · C# |
 
 <sub>🔒 비공개 저장소</sub>
 
-### 🔥 Personal Projects
+### 🔥 Personal & Class Projects
 
-| 연도 | 프로젝트 | 설명 |
+| 시기 | 프로젝트 | 설명 |
 |---|---|---|
-| 2025 | [Fire3D-Simulation](https://github.com/urimll/Fire3D-Simulation) | 우리 학교 건물을 3D로 똑같이 모델링한 화재 상황 대피 시뮬레이션 (Unity XR) |
+| 2025.12 | [🔥 EXIT CODE : RED](https://github.com/urimll/EXIT-CODE-RED) | 종합설계 팀 HOT ESC **팀장** · 동양미래대 3호관을 1:1로 모델링한 Meta Quest 3 VR 화재 대피 시뮬레이션 (교육/실전 모드, HP·백드래프트·소화기) |
 | 2025 | [christmas-fortune](https://github.com/urimll/2026-christmas-fortune) | 크리스마스 운세 웹페이지 |
 
 ### 📫 Contact
