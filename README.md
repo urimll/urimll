@@ -58,6 +58,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
+### 🔥 Personal Projects
+
+| 시기 | 프로젝트 | 설명 |
+|---|---|---|
+| 2026.06 | [🌍 Internet-Gap-Analysis](https://github.com/urimll/Internet-Gap-Analysis) | 데이터 분석 연구 · World Bank 데이터 109개국으로 경제·사회적 조건 대비 인터넷 보급률이 낮은 나라를 다중회귀 Gap 분석으로 찾고, 원인이 전력 인프라 부족임을 밝힘 (논문·발표자료·코드) |
+| 2025.12 | [🔥 EXIT CODE : RED](https://github.com/urimll/EXIT-CODE-RED) | 팀 HOT ESC **팀장** · 동양미래대 3호관을 1:1로 모델링한 Meta Quest 3 VR 화재 대피 시뮬레이션 (교육/실전 모드, HP·백드래프트·소화기) |
+| 2025.11 | [🎄 christmas-fortune](https://github.com/urimll/2026-christmas-fortune) | 심심 연구소 · 이름으로 보는 크리스마스 운명 & 2026 신년 타로 웹사이트 |
+| 2025.06 | [🚸 Smart-School-zone](https://github.com/urimll/Smart-School-zone) | 팀 녕차녕차 · 아두이노로 만든 어린이 보호구역·주차장 도로 모형 (주차 차단기, 잔여 주차면 LCD, 과속 측정, 신호등, 자동 가로등) |
+
 ### 👯 Team Projects
 
 | 기간 | 프로젝트 | 팀 | 설명 | Stack |
@@ -71,15 +80,6 @@
 | 2025.06 ~ 09 | [Mindspace](https://github.com/DongyangMARS) · [🏕 불멍 게임 코드](https://github.com/urimll/Mindspace-Campfire) | MARS | 2025 동양미래 EXPO 출품작 · **Unity 기반 3D 캠프파이어 불멍 게임과 맵 제작 담당** | Unity · C# |
 
 <sub>🔒 비공개 저장소</sub>
-
-### 🔥 Personal & Class Projects
-
-| 시기 | 프로젝트 | 설명 |
-|---|---|---|
-| 2026.06 | [🌍 Internet-Gap-Analysis](https://github.com/urimll/Internet-Gap-Analysis) | 데이터 분석 연구 · World Bank 데이터 109개국으로 경제·사회적 조건 대비 인터넷 보급률이 낮은 나라를 다중회귀 Gap 분석으로 찾고, 원인이 전력 인프라 부족임을 밝힘 (논문·발표자료·코드) |
-| 2025.12 | [🔥 EXIT CODE : RED](https://github.com/urimll/EXIT-CODE-RED) | 종합설계 팀 HOT ESC **팀장** · 동양미래대 3호관을 1:1로 모델링한 Meta Quest 3 VR 화재 대피 시뮬레이션 (교육/실전 모드, HP·백드래프트·소화기) |
-| 2025.11 | [🎄 christmas-fortune](https://github.com/urimll/2026-christmas-fortune) | 심심 연구소 · 이름으로 보는 크리스마스 운명 & 2026 신년 타로 웹사이트 |
-| 2025.06 | [🚸 Smart-School-zone](https://github.com/urimll/Smart-School-zone) | IoT소프트웨어개발 기말 · 팀 녕차녕차 · 아두이노로 만든 어린이 보호구역·주차장 도로 모형 (주차 차단기, 잔여 주차면 LCD, 과속 측정, 신호등, 자동 가로등) |
 
 ### 📫 Contact
 
