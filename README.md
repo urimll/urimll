@@ -2,8 +2,9 @@
 
 ✨ **React · React Native로 화면을 만들고, Unity로 3D 세계를 만드는 프론트엔드 개발자** ✨
 
-- 🔥 요즘 만들고 있는 것 ... [Fire3D-Simulation](https://github.com/urimll/Fire3D-Simulation) — 숨쉬기로 모닥불과 상호작용하는 Unity XR 캠프파이어
-- 🎄 최근에 만든 것 ... [2026-christmas-fortune](https://github.com/urimll/2026-christmas-fortune) — 크리스마스 운세 웹페이지
+- 🚀 요즘 하고 있는 것 ... 해커톤! [티링크 홍보글 메이커](https://github.com/where-is-the-error/tlink-promo-writer) (스마트워크톤) · [청도 해커톤 2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026)
+- 👯 함께한 팀 ... SenTic · MARS · where-is-the-error · WE-AI
+- 🔥 2025년에 만든 것 ... [Fire3D-Simulation](https://github.com/urimll/Fire3D-Simulation) (Unity XR 캠프파이어) · [christmas-fortune](https://github.com/urimll/2026-christmas-fortune) (크리스마스 운세 웹)
 - 🌱 공부하고 있는 것 ... React Native(Expo), TypeScript, TanStack Query
 - 📱 관심 있는 것 ... 앱 UI, 인터랙션, XR
 - ⚡ Fun fact ... 불멍 시뮬레이션을 직접 만들 만큼 모닥불을 좋아해요 🪵
@@ -32,6 +33,12 @@
 [![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff)](https://github.com/urimll/Fire3D-Simulation)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=ffffff)
 
+**Also worked with**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+
 ### 📊 GitHub Stats
 
 <p>
@@ -39,12 +46,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urimll&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 </p>
 
-### 📌 Projects
+### 👯 Team Projects
 
-| | Project | 설명 |
+| 기간 | 프로젝트 | 팀 | 설명 | Stack |
+|---|---|---|---|---|
+| 2026.11 | [tlink-promo-writer](https://github.com/where-is-the-error/tlink-promo-writer) | where-is-the-error | 사진과 메모로 근거 쪽수가 붙은 블로그 후기형 홍보글을 써 주는 AI (스마트워크톤) | TypeScript |
+| 2026.11 | [cheongdo-hackathon-2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026) | 청도 해커톤 | '다녀왔어요' 앱 | Python · Azure |
+| 2026.04 ~ 10 | [we-ai-client](https://github.com/WE-AI-Project/we-ai-client) · [🌐 Demo](https://we-ai-client.vercel.app) | WE-AI | WE-AI 웹 클라이언트 | TypeScript · React |
+| 2026.05 ~ 10 | [SenTic App](https://github.com/SenTic-DMU/Frontend) | SenTic | SenTic 모바일 앱 프론트엔드 | React Native · Expo · TypeScript |
+| 2026.01 ~ 03 | [OwnPlot](https://github.com/where-is-the-error/OwnPlot) | where-is-the-error | OwnPlot 웹 서비스 | Next.js · TypeScript |
+| 2025.11 ~ 12 | [MoimiProject](https://github.com/where-is-the-error/MoimiProject) | where-is-the-error | 모이미 안드로이드 앱 | Kotlin |
+| 2025.11 ~ 12 | [edubridge](https://github.com/where-is-the-error/edubridge-frontend) ([backend](https://github.com/where-is-the-error/edubridge-backend)) | where-is-the-error | EduBridge 웹 서비스 | React · Vite · Java |
+| 2025.07 ~ 09 | [Mindspace 관리자 대시보드](https://github.com/DongyangMARS/web) | MARS | Mindspace 방문자·사용자 통계를 보는 관리자 대시보드 | JavaScript · React |
+
+### 🔥 Personal Projects
+
+| 연도 | 프로젝트 | 설명 |
 |---|---|---|
-| 🔥 | [Fire3D-Simulation](https://github.com/urimll/Fire3D-Simulation) | Unity XR 캠프파이어 · 호흡 인터랙션 · 계절 배경 |
-| 🎄 | [2026-christmas-fortune](https://github.com/urimll/2026-christmas-fortune) | 크리스마스 운세 웹페이지 |
+| 2025 | [Fire3D-Simulation](https://github.com/urimll/Fire3D-Simulation) | Unity XR 캠프파이어 · 호흡 인터랙션 · 계절 배경 |
+| 2025 | [christmas-fortune](https://github.com/urimll/2026-christmas-fortune) | 크리스마스 운세 웹페이지 |
 
 ### 📫 Contact
 
