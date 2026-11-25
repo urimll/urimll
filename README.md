@@ -14,7 +14,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=ffffff)
@@ -23,7 +22,6 @@
 **Mobile**  
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 
 **3D & XR**  
 [![Unity](https://img.shields.io/badge/-Unity-222222?style=for-the-badge&logo=unity&logoColor=ffffff)](https://github.com/urimll/EXIT-CODE-RED)
@@ -48,7 +46,6 @@
 
 **Backend & Cloud**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
@@ -74,9 +71,6 @@
 | 2026.05 ~ 10 | [SenTic App](https://github.com/SenTic-DMU/Frontend) | SenTic | SenTic 모바일 앱 프론트엔드 | React Native · Expo · TypeScript |
 | 2026.08 ~ 09 | Cinderella 🔒 | LastTimeIWannaGo | Cinderella 앱 (Frontend · Backend · AI) | React Native · Expo · Naver Map |
 | 2026.07 | SenTic Admin 🔒 | SenTic | SenTic 관리자 페이지 | React · Vite · Tailwind · React Query |
-| 2026.01 ~ 03 | [OwnPlot](https://github.com/where-is-the-error/OwnPlot) | where-is-the-error | OwnPlot 웹 서비스 | Next.js · TypeScript |
-| 2025.11 ~ 12 | [MoimiProject](https://github.com/where-is-the-error/MoimiProject) | where-is-the-error | 모이미 안드로이드 앱 | Kotlin |
-| 2025.11 ~ 12 | [edubridge](https://github.com/where-is-the-error/edubridge-frontend) ([backend](https://github.com/where-is-the-error/edubridge-backend)) | where-is-the-error | EduBridge 웹 서비스 | React · Vite · Java |
 | 2025.06 ~ 09 | [Mindspace](https://github.com/DongyangMARS) · [🏕 불멍 게임 코드](https://github.com/urimll/Mindspace-Campfire) | MARS | 2025 동양미래 EXPO 출품작 · **Unity 기반 3D 캠프파이어 불멍 게임과 맵 제작 담당** | Unity · C# |
 
 <sub>🔒 비공개 저장소</sub>
