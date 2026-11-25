@@ -75,6 +75,7 @@
 | 2026.11 | [cheongdo-hackathon-2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026) | 청도 해커톤 | '다녀왔어요' 앱 | Python · Azure |
 | 2026.04 ~ 10 | [we-ai-client](https://github.com/WE-AI-Project/we-ai-client) · [🌐 Demo](https://we-ai-client.vercel.app) | WE-AI | WE-AI 웹 클라이언트 | TypeScript · React |
 | 2026.05 ~ 10 | [SenTic App](https://github.com/SenTic-DMU/Frontend) | SenTic | SenTic 모바일 앱 프론트엔드 | React Native · Expo · TypeScript |
+| 2026 | SenTic Native 🔒 | SenTic | Vite React 프로토타입을 Expo React Native 앱으로 옮긴 SenTic 앱 | React Native · Expo · TypeScript |
 | 2026.08 ~ 09 | Cinderella 🔒 | LastTimeIWannaGo | Cinderella 앱 (Frontend · Backend · AI) | React Native · Expo · Naver Map |
 | 2026.07 | SenTic Admin 🔒 | SenTic | SenTic 관리자 페이지 | React · Vite · Tailwind · React Query |
 | 2025.06 ~ 09 | [Mindspace](https://github.com/DongyangMARS) · [🏕 불멍 게임 코드](https://github.com/urimll/Mindspace-Campfire) | MARS | 2025 동양미래 EXPO 출품작 · **Unity 기반 3D 캠프파이어 불멍 게임과 맵 제작 담당** | Unity · C# |
