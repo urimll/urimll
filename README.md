@@ -58,12 +58,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=urimll&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="urimll's GitHub stats" />
-</p>
-
 ### 👯 Team Projects
 
 | 기간 | 프로젝트 | 팀 | 설명 | Stack |
