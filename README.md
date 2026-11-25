@@ -59,7 +59,7 @@
 | 2026.01 ~ 03 | [OwnPlot](https://github.com/where-is-the-error/OwnPlot) | where-is-the-error | OwnPlot 웹 서비스 | Next.js · TypeScript |
 | 2025.11 ~ 12 | [MoimiProject](https://github.com/where-is-the-error/MoimiProject) | where-is-the-error | 모이미 안드로이드 앱 | Kotlin |
 | 2025.11 ~ 12 | [edubridge](https://github.com/where-is-the-error/edubridge-frontend) ([backend](https://github.com/where-is-the-error/edubridge-backend)) | where-is-the-error | EduBridge 웹 서비스 | React · Vite · Java |
-| 2025.07 ~ 09 | [Mindspace 관리자 대시보드](https://github.com/DongyangMARS/web) | MARS | Mindspace 방문자·사용자 통계를 보는 관리자 대시보드 | JavaScript · React |
+| 2025.06 ~ 09 | [Mindspace](https://github.com/DongyangMARS) | MARS | 2025 동양미래 EXPO 출품작 · **Unity 기반 3D 불멍 게임과 맵 제작 담당** | Unity · C# |
 
 <sub>🔒 비공개 저장소</sub>
 
