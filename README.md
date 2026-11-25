@@ -3,7 +3,7 @@
 ✨ **React · React Native로 화면을 만들고, Unity로 3D 세계를 만드는 프론트엔드 개발자** ✨
 
 - 🚀 요즘 하고 있는 것 ... 해커톤! [티링크 홍보글 메이커](https://github.com/where-is-the-error/tlink-promo-writer) (스마트워크톤) · [청도 해커톤 2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026)
-- 👯 함께한 팀 ... SenTic · MARS · where-is-the-error · WE-AI
+- 👯 함께한 팀 ... SenTic · MARS · where-is-the-error · WE-AI · LastTimeIWannaGo
 - 🔥 2025년에 만든 것 ... [Fire3D-Simulation](https://github.com/urimll/Fire3D-Simulation) (Unity XR 캠프파이어) · [christmas-fortune](https://github.com/urimll/2026-christmas-fortune) (크리스마스 운세 웹)
 - 🌱 공부하고 있는 것 ... React Native(Expo), TypeScript, TanStack Query
 - 📱 관심 있는 것 ... 앱 UI, 인터랙션, XR
@@ -54,10 +54,14 @@
 | 2026.11 | [cheongdo-hackathon-2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026) | 청도 해커톤 | '다녀왔어요' 앱 | Python · Azure |
 | 2026.04 ~ 10 | [we-ai-client](https://github.com/WE-AI-Project/we-ai-client) · [🌐 Demo](https://we-ai-client.vercel.app) | WE-AI | WE-AI 웹 클라이언트 | TypeScript · React |
 | 2026.05 ~ 10 | [SenTic App](https://github.com/SenTic-DMU/Frontend) | SenTic | SenTic 모바일 앱 프론트엔드 | React Native · Expo · TypeScript |
+| 2026.08 ~ 09 | Cinderella 🔒 | LastTimeIWannaGo | Cinderella 앱 (Frontend · Backend · AI) | React Native · Expo · Naver Map |
+| 2026.07 | SenTic Admin 🔒 | SenTic | SenTic 관리자 페이지 | React · Vite · Tailwind · React Query |
 | 2026.01 ~ 03 | [OwnPlot](https://github.com/where-is-the-error/OwnPlot) | where-is-the-error | OwnPlot 웹 서비스 | Next.js · TypeScript |
 | 2025.11 ~ 12 | [MoimiProject](https://github.com/where-is-the-error/MoimiProject) | where-is-the-error | 모이미 안드로이드 앱 | Kotlin |
 | 2025.11 ~ 12 | [edubridge](https://github.com/where-is-the-error/edubridge-frontend) ([backend](https://github.com/where-is-the-error/edubridge-backend)) | where-is-the-error | EduBridge 웹 서비스 | React · Vite · Java |
 | 2025.07 ~ 09 | [Mindspace 관리자 대시보드](https://github.com/DongyangMARS/web) | MARS | Mindspace 방문자·사용자 통계를 보는 관리자 대시보드 | JavaScript · React |
+
+<sub>🔒 비공개 저장소</sub>
 
 ### 🔥 Personal Projects
 
