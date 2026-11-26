@@ -3,7 +3,7 @@
 ✨ **React · React Native로 화면을 만들고, Unity로 3D 세계를 만드는 프론트엔드 개발자** ✨
 
 - 🚀 요즘 하고 있는 것 ... 해커톤! [티링크 홍보글 메이커](https://github.com/where-is-the-error/tlink-promo-writer) (스마트워크톤) · [청도 해커톤 2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026)
-- 👯 함께한 팀 ... [SenTic](https://github.com/SenTic-DMU) · MARS · where-is-the-error · WE-AI · LastTimeIWannaGo
+- 👯 함께한 팀 ... [SenTic](https://github.com/SenTic-DMU) · MARS · where-is-the-error · LastTimeIWannaGo
 - 🌱 공부하고 있는 것 ... React Native(Expo), TypeScript, TanStack Query
 - 📱 관심 있는 것 ... 앱 UI, 인터랙션, XR
 - ⚡ Fun fact ... 불멍 게임도, 화재 대피 시뮬레이션도 만들어 본 불 전문가 🔥🧯
@@ -73,7 +73,6 @@
 |---|---|---|---|---|
 | 2026.11 | [tlink-promo-writer](https://github.com/where-is-the-error/tlink-promo-writer) | where-is-the-error | 사진과 메모로 근거 쪽수가 붙은 블로그 후기형 홍보글을 써 주는 AI (스마트워크톤) | TypeScript |
 | 2026.11 | [cheongdo-hackathon-2026](https://github.com/ChanYoung99/cheongdo-hackathon-2026) | 청도 해커톤 | '다녀왔어요' 앱 | Python · Azure |
-| 2026.04 ~ 10 | [we-ai-client](https://github.com/WE-AI-Project/we-ai-client) · [🌐 Demo](https://we-ai-client.vercel.app) | WE-AI | WE-AI 웹 클라이언트 | TypeScript · React |
 | 2026.05 ~ 10 | [SenTic App](https://github.com/SenTic-DMU/Frontend) | [SenTic](https://github.com/SenTic-DMU) | SenTic 모바일 앱 프론트엔드 | React Native · Expo · TypeScript |
 | 2026 | [SenTic Native](https://github.com/urimll/sentic-native) | [SenTic](https://github.com/SenTic-DMU) | Vite React 프로토타입을 Expo React Native 앱으로 옮긴 SenTic 앱 | React Native · Expo · TypeScript |
 | 2026.08 ~ 09 | Cinderella 🔒 | LastTimeIWannaGo | Cinderella 앱 (Frontend · Backend · AI) | React Native · Expo · Naver Map |
